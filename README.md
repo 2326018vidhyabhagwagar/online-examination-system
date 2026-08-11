@@ -40,7 +40,6 @@ to attend examinations online and view their examination results.
 - main
 - develop
 - feature/login
-- feature/examination
 
 ## Author
 
